@@ -1,4 +1,5 @@
 
+
 # **Nilesh Mukherjee**
 I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 
@@ -11,7 +12,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 * 👦 **About me:** 📖 Book Reader, 🎮 Gamer, 🎵 Music Lover
 * <img src="https://api.iconify.design/logos:microsoft-windows.svg" alt="Linux" width=22 height=22> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=22 height=22> **Windows and Linux User** (I use Mint, btw)
 
-[![PROFESSOR](https://github-readme-stats-sigma-five.vercel.app/api?username=X-PROFESSOR&show_icons=true&include_all_commits=true`)](https://github.com/X-PROFESSOR)
+[![PROFESSOR](https://github-readme-stats-sigma-five.vercel.app/api?username=itsNileshHere&show_icons=true&include_all_commits=true`)](https://github.com/X-PROFESSOR)
 <br>
 <br>
 ## Most familiar with
