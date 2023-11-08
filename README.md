@@ -10,7 +10,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 * 💻 **Computer Enthusiast**
 * ✉️ **Email me at nileshmukherjee1855@gmail.com**
 * 👦 **About me:** 📖 Book Reader, 🎮 Gamer, 🎵 Music Lover
-* <img src="https://api.iconify.design/logos:microsoft-windows.svg" alt="Linux" width=22 height=22> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=22 height=22> **Windows and Linux User** (I use Mint, btw)
+* <img src="https://api.iconify.design/logos:microsoft-windows.svg" alt="Linux" width=22 height=22> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=22 height=22> **Windows and Linux User** (I use Debian, btw)
 
 [![PROFESSOR](https://github-readme-stats-sigma-five.vercel.app/api?username=itsNileshHere&show_icons=true&include_all_commits=true`)](https://github.com/X-PROFESSOR)
 <br>
