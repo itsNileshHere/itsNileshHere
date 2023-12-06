@@ -3,7 +3,7 @@
 # **Nilesh Mukherjee**
 I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fthftjn&label=Profile%20views&color=0e75b6&style=flat" alt="fthftjn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fthftjn&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="fthftjn" /> </p>
 <p align="left"> <a href="https://twitter.com/nilesh_mukherje" target="blank"><img src="https://img.shields.io/twitter/follow/nilesh_mukherje?logo=twitter&style=for-the-badge" alt="nilesh_mukherje" /></a> </p>
 
 * 🎮 **Part-Time Gamer**
