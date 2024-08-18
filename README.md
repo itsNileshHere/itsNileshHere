@@ -40,6 +40,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 - Javascript
 - CSS
 - C++
+- Python
 <br>
 
 ## Reach me on
