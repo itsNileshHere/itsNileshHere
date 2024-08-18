@@ -46,9 +46,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 ## Reach me on
 
 <span>  
-<a href="https://twitter.com/nilesh_mukherje" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:twitter.svg" alt="twitter" width=35 height=35"/></a>
-&nbsp
-<a href="https://linkedin.com/in/nilesh-mukherjee-182a051bb" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="linkedin" width=35 height=35"/></a>  
+<a href="https://t.me/DsntMtter" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:telegram.svg" alt="telegram" width=35 height=35"/></a>
 &nbsp
 <a href="https://discordapp.com/channels/@me/𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑#3896" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos:discord-icon.svg" alt="discord" width=35 height=35"/></a>  
 </span>
