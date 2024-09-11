@@ -31,8 +31,8 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 <span>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:c.svg" alt="c" width="40" height="40"></a>&nbsp
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"></a>&nbsp
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="40" height="40"/> </a>&nbsp
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon:typescript.svg" alt="typescript" width="40" height="40"/> </a>&nbsp
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" width="40" height="40"></a>&nbsp
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon:typescript.svg" alt="typescript" width="40" height="40"></a>&nbsp
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:php.svg" alt="php" width="40" height="40"></a>&nbsp
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:mongodb-icon.svg" alt="mongodb" width="40" height="40"></a>&nbsp
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos:mysql.svg" alt="mysql" width="40" height="40"></a>&nbsp
