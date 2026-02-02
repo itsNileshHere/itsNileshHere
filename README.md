@@ -10,7 +10,7 @@ I'm a **Student** passionate about **Games**, **Tech** and **Programming**.
 - 👦 **About me:** 📖 Book Reader, 🎮 Gamer, 🎵 Music Lover
 - <img src="https://api.iconify.design/devicon:windows11-wordmark.svg" alt="Windows" width=22 height=22> <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width=22 height=22> **Windows and Linux User** (I use Debian, btw)
 
-[![Nilesh](https://github-readme-stats.vercel.app/api?username=itsNileshHere&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true&custom_title=GitHub%20Stats)](https://github.com/itsNileshHere)
+[![Nilesh](https://personal-github-stats-135.vercel.app/api?username=itsNileshHere&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true&custom_title=GitHub%20Stats)](https://github.com/itsNileshHere)
 <br>
 <br>
 
